@@ -1,10 +1,11 @@
 # ⚡ GridTwin / GridAttention — Live Evaluator & Verification API
 
-> **Official Live Production URL:**  
-> 🔗 **[`https://gridattention-2.onrender.com`](https://gridattention-2.onrender.com)**  
-> 📖 **Interactive Swagger UI / API Testing:** **[`https://gridattention-2.onrender.com/docs`](https://gridattention-2.onrender.com/docs)**  
-> 🩺 **Service Health:** **[`https://gridattention-2.onrender.com/health`](https://gridattention-2.onrender.com/health)**  
-> 📦 **OpenAPI Schema (JSON):** **[`https://gridattention-2.onrender.com/openapi.json`](https://gridattention-2.onrender.com/openapi.json)**
+> ### 🌐 Quick Access Links
+> - 📖 **Swagger UI / Interactive API Documentation:** **[`https://gridattention-2.onrender.com/docs`](https://gridattention-2.onrender.com/docs)**
+> - 🔗 **Primary Live API Base URL:** **[`https://gridattention-2.onrender.com`](https://gridattention-2.onrender.com)**
+> - 📄 **Swagger / OpenAPI Schema (JSON):** **[`https://gridattention-2.onrender.com/swagger.json`](https://gridattention-2.onrender.com/swagger.json)** (or **[`/openapi.json`](https://gridattention-2.onrender.com/openapi.json)**)
+> - 🩺 **Service Health Endpoint:** **[`https://gridattention-2.onrender.com/health`](https://gridattention-2.onrender.com/health)**
+> - 📚 **ReDoc Alternative Documentation:** **[`https://gridattention-2.onrender.com/redoc`](https://gridattention-2.onrender.com/redoc)**
 
 ---
 
